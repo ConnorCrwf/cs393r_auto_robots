@@ -1,4 +1,5 @@
 # cs393r_starter
+Every now and then, check https://github.com/ut-amrl/cs393r_starter for updates and bring the commits over manually
 
 ## Using this Repo
 You will be using a duplicate of this repo for all development in the class. This repo provides starter code for the ROS subscriptions, publishers and control loops you will be using.
